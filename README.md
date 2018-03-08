@@ -20,3 +20,9 @@ Compiling all tips together, we are making a toy that will understand Deep learn
 Alex has recently come to know about the new form of electricty that can transform the industrization. He is really excited to learn about it. So, he plans to build a basic circuit to start learning with that can replicate *XOR* gate but he is not using electric gate, instead he tries to implement this "new" concept in his knowledge. 
 
 As Alex is new-bie in the field and he really does not know much about this field concepts but all he knows that there is tool Regression that can build *XOR* gate. So, he just picks up the tool and starts building his first basic *XOR* gate. His detailed demo of gate can be seen on the following link: [Make first gate](https://www.kaggle.com/hamzafar/derivation-in-context-of-logistic-regression)
+
+In his first attempt, Alex just used only two input values to validate his gate operation either it's working fine or not. But surperising his gate is giving him superb results as it is working ~100% accurately. He does not hold himself and after making his hands dirty to build *XOR* gate with simple input he thinks to generalize this circut gate with more complex inputs to check how his work is robust. In the link [Regression for XOR](https://www.kaggle.com/hamzafar/regression-for-xor) he automates the gate and check it on various load setting(by load setting we mean different shape of input data).
+
+But, alas, his automated Rgression gate is not powreful to cope up load testing. 
+
+**(WORK IN PROCESS!! He is exploring to build gate more powerful.)**
