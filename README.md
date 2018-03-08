@@ -14,3 +14,4 @@ Getting inspiation from #Andrew_Ng deep learning speccialization; **Heros of Dee
     
  
 Compiling all tips together, we are making a toy that will understand Deep learning algorithms and deploy them from scratch. After then we will do some intuation in deep learning algorithms.  This Toy is really excited by new type of *Electricity* and really want to be an **Artificial Electrical Specialist**. Let's have toy story:
+---
