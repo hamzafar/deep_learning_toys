@@ -23,6 +23,6 @@ As Alex is new-bie in the field and he really does not know much about this fiel
 
 In his first attempt, Alex just used only two input values to validate his gate operation either it's working fine or not. But surperising his gate is giving him superb results as it is working ~100% accurately. He does not hold himself and after making his hands dirty to build *XOR* gate with simple input he thinks to generalize this circut gate with more complex inputs to check how his work is robust. In the link [Regression for XOR](https://www.kaggle.com/hamzafar/regression-for-xor) he automates the gate and check it on various load setting(by load setting we mean different shape of input data).
 
-But, alas, his automated Rgression gate is not powreful to cope up load testing. 
+But, alas, his automated Rgression gate is not powreful to cope up load testing. :(
 
-**(WORK IN PROCESS!! He is exploring to build gate more powerful.)**
+**(WORK IN PROGRESS!! He is exploring to build gate more powerful.)**
