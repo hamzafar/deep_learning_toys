@@ -33,11 +33,11 @@ There is a guy in Alex class, who always secures more marks than him and also be
 
 
 
-Tables | Are | Cool |
+Data Set | Regression | Muli |
 ------------- |:-------------:| -----:|
-col 3 is | right-aligned | $1600 |
-col 2 is | centered |$12 |
-zebra stripes | are neat | $1 |
+10000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..bDUoZx9WohwdfjKANXATog.PYB9s2tVWOXNsBBFJySeT6k0Ty1Llnl87dng8c4ynErrfFj4jPOAs2RF4vhVbvKVCrIUNNwch9p7ypGDirG0-pQ2NFZ0bKiZkO3ZaBmUkGk.pdks7UU7yKLkKklKZHRx3w/__results___files/__results___26_1.png) | $1600 |
+100000 | centered |$12 |
+1000000 | are neat | $1 |
 
 
 
