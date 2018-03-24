@@ -30,4 +30,15 @@ There is a guy in Alex class, who always secures more marks than him and also be
 
 [multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network)
 
+
+
+
+Tables | Are | Cool |
+------------- |:-------------:| -----:|
+col 3 is | right-aligned | $1600 |
+col 2 is | centered |$12 |
+zebra stripes | are neat | $1 |
+
+
+
 **(WORK IN PROGRESS!! He is exploring to build gate more powerful.)**
