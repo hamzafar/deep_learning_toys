@@ -33,11 +33,11 @@ There is a guy in Alex class, who always secures more marks than him and also be
 
 
 
-Data Set | Regression | Muli |
+Data Set | Regression | Multi-layer Neural Network |
 ------------- |:-------------:| -----:|
 10000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..bDUoZx9WohwdfjKANXATog.PYB9s2tVWOXNsBBFJySeT6k0Ty1Llnl87dng8c4ynErrfFj4jPOAs2RF4vhVbvKVCrIUNNwch9p7ypGDirG0-pQ2NFZ0bKiZkO3ZaBmUkGk.pdks7UU7yKLkKklKZHRx3w/__results___files/__results___26_1.png) | $1600 |
-100000 | centered |$12 |
-1000000 | are neat | $1 |
+100000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..XKzdh1JmWu1XN48m4BwVYg.0D58jAm1fc1Wg69sIkmSkMbJnsdBBfKjJgqi2gajIeJCcWlMTH5rgNCEnrUkG7_qd5l_BKEZRvEgVUTW5QRNMGVWqc8fg_9790oZ0jdRrFw.g2p18waAluAU6pTiJdkVnQ/__results___files/__results___26_3.png) |$12 |
+1000000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..XKzdh1JmWu1XN48m4BwVYg.0D58jAm1fc1Wg69sIkmSkMbJnsdBBfKjJgqi2gajIeJCcWlMTH5rgNCEnrUkG7_qd5l_BKEZRvEgVUTW5QRNMGVWqc8fg_9790oZ0jdRrFw.g2p18waAluAU6pTiJdkVnQ/__results___files/__results___26_5.png) | $1 |
 
 
 
