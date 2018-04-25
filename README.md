@@ -32,7 +32,8 @@ He is excited, as his simple Network is giving him excellent results as compared
 
 :( :( The newbie  is not having pretty good results, and his [Multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network) is not giving better results than Regression. 
 
-RNN & Lstm
+[RNN](https://www.kaggle.com/hamzafar/recurrent-neural-network) being deployed.
+& Lstm
 
 ### Result Comparision:
 
@@ -44,6 +45,8 @@ Data Set | Regression | Multi-layer Neural Network |
 100000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..XKzdh1JmWu1XN48m4BwVYg.0D58jAm1fc1Wg69sIkmSkMbJnsdBBfKjJgqi2gajIeJCcWlMTH5rgNCEnrUkG7_qd5l_BKEZRvEgVUTW5QRNMGVWqc8fg_9790oZ0jdRrFw.g2p18waAluAU6pTiJdkVnQ/__results___files/__results___26_3.png) |![](https://www.kaggleusercontent.com/kf/2889912/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FE0SDfrL7Sid7oTkASLnCA.SyVGLnOGgIAzMySmxQTPoBib9RJ_UlUE9c9VTlWCwyjYxZ_DwD_E-FwjXPTA7zxhiEbBezmTdJF8ruLf5a5udKDDHQByDq0DXjpd5rZqyWg5GlpMLQ-MPvl4iarcGvqV.PU380UbuFd1hpiAqRPPeMQ/__results___files/__results___50_3.png) |
 1000000 | ![](https://www.kaggleusercontent.com/kf/2733275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..XKzdh1JmWu1XN48m4BwVYg.0D58jAm1fc1Wg69sIkmSkMbJnsdBBfKjJgqi2gajIeJCcWlMTH5rgNCEnrUkG7_qd5l_BKEZRvEgVUTW5QRNMGVWqc8fg_9790oZ0jdRrFw.g2p18waAluAU6pTiJdkVnQ/__results___files/__results___26_5.png) | ![](https://www.kaggleusercontent.com/kf/2889912/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FE0SDfrL7Sid7oTkASLnCA.SyVGLnOGgIAzMySmxQTPoBib9RJ_UlUE9c9VTlWCwyjYxZ_DwD_E-FwjXPTA7zxhiEbBezmTdJF8ruLf5a5udKDDHQByDq0DXjpd5rZqyWg5GlpMLQ-MPvl4iarcGvqV.PU380UbuFd1hpiAqRPPeMQ/__results___files/__results___50_5.png) |
 
+
+RNN
 
 
 **(WORK IN PROGRESS!! He is exploring to build gate more powerful.)**
