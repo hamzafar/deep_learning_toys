@@ -41,9 +41,9 @@ Alex, is so curious to see which model is working best for *XOR* gate, so he gen
 
 Data Set | Regression | Multi-layer Neural Network |
 ------------- |:-------------:| -----:|
-10000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-10000.png?raw=true) | ![](https://www.kaggleusercontent.com/kf/2889912/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FE0SDfrL7Sid7oTkASLnCA.SyVGLnOGgIAzMySmxQTPoBib9RJ_UlUE9c9VTlWCwyjYxZ_DwD_E-FwjXPTA7zxhiEbBezmTdJF8ruLf5a5udKDDHQByDq0DXjpd5rZqyWg5GlpMLQ-MPvl4iarcGvqV.PU380UbuFd1hpiAqRPPeMQ/__results___files/__results___50_1.png) |
-100000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-100000.png?raw=true) |![](https://www.kaggleusercontent.com/kf/2889912/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FE0SDfrL7Sid7oTkASLnCA.SyVGLnOGgIAzMySmxQTPoBib9RJ_UlUE9c9VTlWCwyjYxZ_DwD_E-FwjXPTA7zxhiEbBezmTdJF8ruLf5a5udKDDHQByDq0DXjpd5rZqyWg5GlpMLQ-MPvl4iarcGvqV.PU380UbuFd1hpiAqRPPeMQ/__results___files/__results___50_3.png) |
-1000000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-1000000.png?raw=true) | ![](https://www.kaggleusercontent.com/kf/2889912/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FE0SDfrL7Sid7oTkASLnCA.SyVGLnOGgIAzMySmxQTPoBib9RJ_UlUE9c9VTlWCwyjYxZ_DwD_E-FwjXPTA7zxhiEbBezmTdJF8ruLf5a5udKDDHQByDq0DXjpd5rZqyWg5GlpMLQ-MPvl4iarcGvqV.PU380UbuFd1hpiAqRPPeMQ/__results___files/__results___50_5.png) |
+10000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp10000.png?raw=true) |
+100000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-100000.png?raw=true) |![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp100000.png?raw=true) |
+1000000 | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-1000000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp1000000.png?raw=true) |
 
 
 RNN
