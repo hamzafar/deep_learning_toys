@@ -15,7 +15,8 @@ Getting inspiation from **Andrew_Ng** deep learning speccialization; **Heros of 
  
 Compiling all tips together, we are making a toy that will understand Deep learning algorithms and deploy them from scratch. After then we will do some intuation in deep learning algorithms.  This Toy is really excited by new type of *Electricity* and really want to be an **Artificial Electrical Specialist**. Let's have toy story:
 
-(Please Note: The Algorithm from scratch, that are deployed on Kaggle Kernel, can be seen on the links in the story.)
+[Please Note: The Algorithm from scratch, that are deployed on Kaggle Kernel, can be seen on the links in the story.]
+
 ---
 
 Alex has recently come to know about the new form of electricty that can transform the industrization. He is really excited to learn about it. So, he plans to build a basic circuit to start learning with that can replicate *XOR* gate but he is not using electric gate, instead he tries to implement this "new" concept that is just brought up in his knowledge. 
