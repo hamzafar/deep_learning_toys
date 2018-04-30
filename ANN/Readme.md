@@ -1,4 +1,4 @@
-Extending the concept of Logistic Regression, the dense netowrk is created with combining each of logistic unit containing 
+Extending the concept of [Logistic Regression](https://github.com/hamzafar/deep_learning_toys/tree/master/Regression), the dense netowrk is created with combining each of logistic unit containing 
 both linear and non linear operations. We have named this single unit as Neuron. 
 
 For simplicity purpose, the two layer neural network is first made i.e. the model contanin only two hidden layers and one output layer. 
