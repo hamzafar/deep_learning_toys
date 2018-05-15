@@ -42,11 +42,13 @@ He is excited, as his simple Network is giving him excellent results as compared
 Alex, is so curious to see which model is working best for *XOR* gate, so he generated the curve graph, 3 different dataset (training) whose length (row) is *10000, 100000 and 1000000* respectively and width (columns) is *50*. Below is the table, he is comparing among Regression and Multi-Layer Neural Network.
 
 
-Data Set | Training Sample:10000 | Training Sample:100000 |
+Data Set | Training Sample:10000 |Training Sample:100000 |
 ------------- |:-------------:| -----:|
 Regression | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-100000.png?raw=true)|
+Multi-layer Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp100000.png?raw=true) |
 
 
+---
 
 
 Data Set | Regression | Multi-layer Neural Network |
