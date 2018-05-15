@@ -45,7 +45,7 @@ Alex, is so curious to see which model is working best for *XOR* gate, so he gen
 Algorithms | Training Sample:10000 |Training Sample:100000 |
 ------------- |:-------------:| -----:|
 Regression | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-100000.png?raw=true)|
-Multi-layer Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/mlp/mlp100000.png?raw=true) |
+Multi-layer Neural Network | ![](https://raw.githubusercontent.com/hamzafar/deep_learning_toys/master/images/Two%20Layers_Neural_Network/nn-10000.png) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Two%20Layers_Neural_Network/nn-100000.png?raw=true) |
 Recurrent Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-100000.png?raw=true)|
 
 
