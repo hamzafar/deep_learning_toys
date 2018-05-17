@@ -46,7 +46,7 @@ Algorithms | Training Sample:10000 |Training Sample:100000 |
 ------------- |:-------------:| -----:|
 Regression | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-10000.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Reg-100000.png?raw=true)|
 Multi-layer Neural Network | ![](https://raw.githubusercontent.com/hamzafar/deep_learning_toys/master/images/Two%20Layers_Neural_Network/nn-10000.png) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Two%20Layers_Neural_Network/nn-100000.png?raw=true) |
-Recurrent Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-10000(1000ite).png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-100000.png?raw=true)|
+Recurrent Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-10000-1000-007.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-100000-1000-007.png?raw=true)|
 
 
 
