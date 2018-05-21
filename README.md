@@ -37,7 +37,7 @@ Since, Alex was inspired by functions of brain and brain has one excellent funct
 
 ### Result Comparision:
 
-Alex, is so curious to see which model is working best for *XOR* gate, so he generated the curve graph, 3 different dataset (training) whose length (row) is *10000, 100000 and 1000000* respectively and width (columns) is *50*. Below is the table, he is comparing among Regression and Multi-Layer Neural Network.
+The three algorithms: Logistic Regression, Multi-layer Neural Network and Recurrent Neural Network, are trained on two different binary datasets whose length(number of rows) is *10000, 100000* and width (number of column) is *50*. The table below contains the error graphs of each algorithm.
 
 
 Algorithms | Training Sample:10000 |Training Sample:100000 |
