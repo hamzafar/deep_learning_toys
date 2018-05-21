@@ -30,7 +30,7 @@ But, alas, his automated Regression gate is not powreful to cope up load testing
 There is a guy in Alex class, who always secures more marks than him and also beat Alex in different competitions in the school, and Alex was really jealous from him. One day his smart fried told him about concept of Artificial Neural Network and **its power of aproximation to every equation in the universe**. Alex, got excited about the concept and was really happy to deploy it to solve his *XOR* problem. So, he deployed a simple [two neural network using KISS principle](https://www.kaggle.com/hamzafar/two-layers-neural-network).
 
 
-He is excited, as his simple Network is giving him excellent results as compared to Regression. So, he generalized the simple architecture into complex one. He deployed it [Multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network).
+He is excited, as his simple Network is giving him excellent results as compared to Regression. So, he generalized the simple architecture into complex one. He named it [Multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network). The architecture is flexible one, that it can include more neuorns(Logistic Regression Units) in it. These units stack up together to build a netowrk that is much bigger and deep than the simple network, made before.
 
 :( :( The newbie  is not having pretty good results, and his [Multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network) is not giving better results than Regression. 
 
