@@ -32,9 +32,8 @@ There is a guy in Alex class, who always secures more marks than him and also be
 
 He is excited, as his simple Network is giving him excellent results as compared to Regression. So, he generalized the simple architecture into complex one. He named it [Multi Layer Perceptrons](https://www.kaggle.com/hamzafar/multi-layer-neural-network). The architecture is flexible one, that it can include more neuorns(Logistic Regression Units) in it. These units stack up together to build a netowrk that is much bigger and deep than the simple network: made before.
 
-Since, Alex was inspired by functions of brain and brain has one excellent functionality "Memory" he wanted to replicate that concpet in his work. He came to know about the type of Artificial Neural Netowrk names as [Recurrent Neural Network](https://www.kaggle.com/hamzafar/recurrent-neural-network). They can read inputs $x^{\langle t \rangle}$ (such as bits) one at a time, and remember some information/context through the hidden layer activations that get passed from one time-step to the next. This allows a RNN to take information from the past to process later inputs.
+Since, Alex was inspired by functions of brain and brain has one excellent functionality "Memory"; he wanted to replicate that concpet in his work. He came to know about the type of Artificial Neural Netowrk names as [Recurrent Neural Network](https://www.kaggle.com/hamzafar/recurrent-neural-network). They can read inputs $x^{\langle t \rangle}$ (such as bits) one at a time, and remember some information/context through the hidden layer activations that get passed from one time-step to the next. This allows a RNN to take information from the past to process later inputs.
 
-[RNN](https://www.kaggle.com/hamzafar/recurrent-neural-network) being deployed.
 
 ### Result Comparision:
 
