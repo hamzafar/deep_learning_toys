@@ -2,7 +2,7 @@
 
 ## TL;DR
 A collection of deep learning algorithms implemented from scratch using NumPy, inspired by Andrew Ng’s Deep Learning Specialization and the philosophy of leading researchers.  
-The goal is to build intuition by coding everything manually — **no PyTorch, no TensorFlow**.
+The goal is to build intuition by coding everything manually **and understanding it mathematically**  — **no PyTorch, no TensorFlow**.
 
 ---
 
