@@ -102,12 +102,13 @@ Error curves and comparisons are included in the notebooks.
 
 ## What You Will Learn
 
+- Linear algebra and matrix operations for deep learning  
 - Forward and backward propagation  
 - Gradient descent from scratch  
 - Why XOR fails with linear models  
-- How depth enables expressiveness  
-- How memory works in neural networks  
-- How deep learning models are built internally  
+- How depth enables expressiveness in neural networks  
+- How memory works in recurrent networks  
+- How deep learning models are built and optimized internally
 
 ---
 
