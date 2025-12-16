@@ -61,10 +61,10 @@ The notebooks follow a natural progression in model complexity and capability.
 - Flexible architecture with configurable number of neurons  
 
 **Notebooks:**
-- [Two Layers Neural Network](https://www.kaggle.com/code/hamzafar/two-layers-neural-network)  
+- [Two Layers Neural Network](https://github.com/hamzafar/deep_learning_toys/blob/master/recurrent-neural-network.ipynb )  
   - Constructing neurons for a Two-Layer Neural Network  
   - Implements feedforward and backpropagation
-- [Multi-Layer Neural Network](https://www.kaggle.com/code/hamzafar/multi-layer-neural-network)  
+- [Multi-Layer Neural Network]( https://github.com/hamzafar/deep_learning_toys/blob/master/multi-layer-neural-network.ipynb)  
   - Exploring generic neural network architecture  
   - Deploying and evaluating performance on varying dataset lengths
 
@@ -78,7 +78,7 @@ The notebooks follow a natural progression in model complexity and capability.
 - Demonstrates how past context influences future predictions  
 
 **Notebook:**
-- [Recurrent Neural Network](https://www.kaggle.com/code/hamzafar/recurrent-neural-network)  
+- [Recurrent Neural Network]( https://github.com/hamzafar/deep_learning_toys/blob/master/recurrent-neural-network.ipynb)  
   - Overview of RNNs and their implementation  
   - Evaluates performance on datasets with varying lengths of training examples
 ---
