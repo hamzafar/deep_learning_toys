@@ -41,7 +41,15 @@ The notebooks follow a natural progression in model complexity and capability.
 - Works on simple inputs  
 - Fails to generalize on complex or larger datasets  
 
-📓 [Open Notebook]([link_to_logistic_regression_notebook](https://github.com/hamzafar/deep_learning_toys/blob/master/derivation-in-context-of-logistic-regression.ipynb))
+**Notebooks:**
+- [Derivation in the Context of Logistic Regression](https://www.kaggle.com/code/hamzafar/derivation-in-context-of-logistic-regression)  
+  - Exploring derivation concepts and their application to a regression model  
+  - Step-by-step regression with parameter updates using Gradient Descent  
+  - Discussing model convergence
+- [Regression for XOR](https://www.kaggle.com/code/hamzafar/regression-for-xor)  
+  - Extends the previous work for XOR problem  
+  - Handles varying dataset sizes  
+  - Evaluates performance across different datasets and parameters
 
 ---
 
@@ -52,9 +60,14 @@ The notebooks follow a natural progression in model complexity and capability.
 - Successfully solves XOR  
 - Flexible architecture with configurable number of neurons  
 
-This shows **why depth and non-linearity matter**.
+**Notebooks:**
+- [Two Layers Neural Network](https://www.kaggle.com/code/hamzafar/two-layers-neural-network)  
+  - Constructing neurons for a Two-Layer Neural Network  
+  - Implements feedforward and backpropagation
+- [Multi-Layer Neural Network](https://www.kaggle.com/code/hamzafar/multi-layer-neural-network)  
+  - Exploring generic neural network architecture  
+  - Deploying and evaluating performance on varying dataset lengths
 
-📓 [Open Notebook](link_to_logistic_regression_notebook)
 ---
 
 ### 3. Recurrent Neural Network (RNN)
@@ -64,7 +77,10 @@ This shows **why depth and non-linearity matter**.
 - Hidden state carries information across time steps  
 - Demonstrates how past context influences future predictions  
 
-📓 [Open Notebook](link_to_logistic_regression_notebook)
+**Notebook:**
+- [Recurrent Neural Network](https://www.kaggle.com/code/hamzafar/recurrent-neural-network)  
+  - Overview of RNNs and their implementation  
+  - Evaluates performance on datasets with varying lengths of training examples
 ---
 
 ## Experiments & Results
