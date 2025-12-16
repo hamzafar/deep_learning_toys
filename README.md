@@ -61,7 +61,7 @@ The notebooks follow a natural progression in model complexity and capability.
 - Flexible architecture with configurable number of neurons  
 
 **Notebooks:**
-- [Two Layers Neural Network](https://github.com/hamzafar/deep_learning_toys/blob/master/recurrent-neural-network.ipynb )  
+- [Two Layers Neural Network](https://github.com/hamzafar/deep_learning_toys/blob/master/two-layers-neural-network.ipynb)  
   - Constructing neurons for a Two-Layer Neural Network  
   - Implements feedforward and backpropagation
 - [Multi-Layer Neural Network]( https://github.com/hamzafar/deep_learning_toys/blob/master/multi-layer-neural-network.ipynb)  
