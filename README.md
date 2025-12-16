@@ -23,7 +23,6 @@ Combining these ideas, this repo focuses on **minimal, educational implementatio
 
 - 🚫 No deep learning frameworks (PyTorch / TensorFlow)
 - ✅ NumPy-only implementations
-- 🧠 Focus on intuition, not performance
 - 🧩 Small, self-contained “toys” that demonstrate core concepts
 - 📘 Code-first learning with clear math and logic
 
