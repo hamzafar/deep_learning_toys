@@ -136,6 +136,7 @@ Focus: Deep Learning, Computer Vision, and AI Systems
 
 
 ---
+<!--
 # Deep Learning Toys:
 
 ## Background:
@@ -184,7 +185,7 @@ Regression | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/imag
 Multi-layer Neural Network | ![](https://raw.githubusercontent.com/hamzafar/deep_learning_toys/master/images/Two%20Layers_Neural_Network/nn-10000.png) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/Two%20Layers_Neural_Network/nn-100000.png?raw=true) |
 Recurrent Neural Network | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-10000-1000-007.png?raw=true) | ![](https://github.com/hamzafar/deep_learning_toys/blob/master/images/rnn/rnn-100000-1000-007.png?raw=true)|
 
-
+-->
 
 
 
