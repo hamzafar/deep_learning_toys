@@ -42,11 +42,11 @@ The notebooks follow a natural progression in model complexity and capability.
 - Fails to generalize on complex or larger datasets  
 
 **Notebooks:**
-- [Derivation in the Context of Logistic Regression](https://www.kaggle.com/code/hamzafar/derivation-in-context-of-logistic-regression)  
+- [Derivation in the Context of Logistic Regression]([https://www.kaggle.com/code/hamzafar/derivation-in-context-of-logistic-regression](https://github.com/hamzafar/deep_learning_toys/blob/master/derivation-in-context-of-logistic-regression.ipynb))  
   - Exploring derivation concepts and their application to a regression model  
   - Step-by-step regression with parameter updates using Gradient Descent  
   - Discussing model convergence
-- [Regression for XOR](https://www.kaggle.com/code/hamzafar/regression-for-xor)  
+- [Regression for XOR]([https://www.kaggle.com/code/hamzafar/regression-for-xor](https://github.com/hamzafar/deep_learning_toys/blob/master/regression-for-xor.ipynb))  
   - Extends the previous work for XOR problem  
   - Handles varying dataset sizes  
   - Evaluates performance across different datasets and parameters
