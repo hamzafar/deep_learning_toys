@@ -121,12 +121,6 @@ Error curves and comparisons are included in the notebooks.
 
 ---
 
-## Disclaimer
-
-This repository is **not optimized for speed or production use**.  
-It is intentionally simple and educational.
-
----
 
 ## Author
 
