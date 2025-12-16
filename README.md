@@ -1,3 +1,127 @@
+# Deep Learning Toys
+
+## TL;DR
+A collection of deep learning algorithms implemented from scratch using NumPy, inspired by Andrew Ng’s Deep Learning Specialization and the philosophy of leading researchers.  
+The goal is to build intuition by coding everything manually — **no PyTorch, no TensorFlow**.
+
+---
+
+## Motivation
+
+This repository is inspired by:
+
+- **Andrew Ng** — strong foundations and intuition  
+- **Geoffrey Hinton** — trust your intuition and code it  
+- **Yoshua Bengio** — build small deep learning toys  
+- **Andrej Karpathy & Ian Goodfellow** — implement algorithms from scratch  
+
+Combining these ideas, this repo focuses on **minimal, educational implementations** that reveal how deep learning works internally.
+
+---
+
+## Philosophy
+
+- 🚫 No deep learning frameworks (PyTorch / TensorFlow)
+- ✅ NumPy-only implementations
+- 🧠 Focus on intuition, not performance
+- 🧩 Small, self-contained “toys” that demonstrate core concepts
+- 📘 Code-first learning with clear math and logic
+
+---
+
+## Learning Progression
+
+The notebooks follow a natural progression in model complexity and capability.
+
+### 1. Logistic Regression (XOR)
+
+- First attempt to model the XOR problem using regression  
+- Works on simple inputs  
+- Fails to generalize on complex or larger datasets  
+
+📎 Kaggle links are provided inside the notebooks.
+
+---
+
+### 2. Multi-Layer Neural Network (MLP)
+
+- Introduction of hidden layers  
+- Demonstrates non-linear function approximation  
+- Successfully solves XOR  
+- Flexible architecture with configurable number of neurons  
+
+This shows **why depth and non-linearity matter**.
+
+---
+
+### 3. Recurrent Neural Network (RNN)
+
+- Introduces the concept of **memory**  
+- Processes inputs sequentially  
+- Hidden state carries information across time steps  
+- Demonstrates how past context influences future predictions  
+
+---
+
+## Experiments & Results
+
+The following models are trained and evaluated:
+
+- Logistic Regression  
+- Multi-Layer Neural Network  
+- Recurrent Neural Network  
+
+### Dataset Settings
+
+- Binary datasets  
+- Number of rows: **10,000 / 100,000**  
+- Number of features: **50**  
+
+Error curves and comparisons are included in the notebooks.
+
+---
+
+## What You Will Learn
+
+- Forward and backward propagation  
+- Gradient descent from scratch  
+- Why XOR fails with linear models  
+- How depth enables expressiveness  
+- How memory works in neural networks  
+- How deep learning models are built internally  
+
+---
+
+## Who This Repo Is For
+
+- Students learning deep learning fundamentals  
+- Engineers who want **framework-free understanding**  
+- Anyone preparing for research, interviews, or teaching  
+- People who believe **intuition > APIs**  
+
+---
+
+## Disclaimer
+
+This repository is **not optimized for speed or production use**.  
+It is intentionally simple and educational.
+
+---
+
+## Author
+
+**Hamza Zafar**  
+Senior AI & Data Science Consultant  
+Focus: Deep Learning, Computer Vision, and AI Systems
+
+
+
+
+
+
+
+
+---
 # Deep Learning Toys:
 
 ## Background:
