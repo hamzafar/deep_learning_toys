@@ -33,13 +33,15 @@ Combining these ideas, this repo focuses on **minimal, educational implementatio
 
 The notebooks follow a natural progression in model complexity and capability.
 
+
+
 ### 1. Logistic Regression (XOR)
 
 - First attempt to model the XOR problem using regression  
 - Works on simple inputs  
 - Fails to generalize on complex or larger datasets  
 
-📎 Kaggle links are provided inside the notebooks.
+📓 [Open Notebook]([link_to_logistic_regression_notebook](https://github.com/hamzafar/deep_learning_toys/blob/master/derivation-in-context-of-logistic-regression.ipynb))
 
 ---
 
@@ -52,6 +54,7 @@ The notebooks follow a natural progression in model complexity and capability.
 
 This shows **why depth and non-linearity matter**.
 
+📓 [Open Notebook](link_to_logistic_regression_notebook)
 ---
 
 ### 3. Recurrent Neural Network (RNN)
@@ -61,6 +64,7 @@ This shows **why depth and non-linearity matter**.
 - Hidden state carries information across time steps  
 - Demonstrates how past context influences future predictions  
 
+📓 [Open Notebook](link_to_logistic_regression_notebook)
 ---
 
 ## Experiments & Results
